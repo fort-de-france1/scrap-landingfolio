@@ -2,7 +2,7 @@ import json
 import os
 import time
 import requests
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 
 # JSON request
 # https://s3.landingfolio.com/inspiration?page=1&sortBy=free-first
